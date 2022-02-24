@@ -1,4 +1,4 @@
 # mysite
 
 # progress
-sampai part 2
+sampai part 3
